@@ -1,0 +1,19 @@
+Objetivos de la clase:
+- Crear un repositorio local y uno en github
+- Publicar commits con git push
+- aRabajar con ramas, conflictos y merge.
+
+-----------
+Cuando creamos un repositorio en Github tenemos dos opciones:
+Todavia no hemos iniciado git ni hemos creado ningun commit --> Opcion que utlizamos Create a new repository on the command line
+Ya hemos iniciado git en un repositorio local y tenemos commits
+
+-----------
+Elejimos la primera:
+echo "# gitprueba-iaw" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/vvvrome/gitprueba-iaw.git
+git push -u origin main
