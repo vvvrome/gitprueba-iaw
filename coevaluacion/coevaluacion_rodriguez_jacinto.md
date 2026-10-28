@@ -1,7 +1,7 @@
 # Coevaluación de CMS y SSG
 
 **Nombre del evaluador:** Jacinto Rodríguez  
-**Persona evaluada:** Víctor Moreno  
+**Persona evaluada:** Víctor Moreno Romero  
 **Mi repositorio:** [JacintoX/Trabajos_en_Markdown](https://github.com/JacintoX/Trabajos_en_Markdown)  
 **Repositorio que evalúo:** [vvvrome/gitprueba-iaw](https://github.com/vvvrome/gitprueba-iaw)
 
